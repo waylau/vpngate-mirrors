@@ -8,7 +8,7 @@ Here are the newset VPN Gate web site’s mirrors .With the VPN Gate,
 * You can disguise your IP address to hide your identity while surfing the Internet.
 * You can protect yourself by utilizing the strong encryption while using public Wi-Fi.[Detail...]()
 
-##提供最新的访问 VPN Gate 镜像网站,通过使用 VPN 
+提供最新的访问 VPN Gate 镜像网站,通过使用 VPN 
 
 * 连接经由全世界志愿者提供的公共 VPN 服务器获得自由访问互联网。
 * 绕过您的本地故障防火墙的数据包拦截，并安全地隐藏你的 IP 地址。
@@ -33,3 +33,5 @@ VPN Gate 源 (主) 网站 URL
 http://www.vpngate.net/
 
 ##Download VPN Gate client 下载客户端
+
+点击下载[最新的客户端]()
