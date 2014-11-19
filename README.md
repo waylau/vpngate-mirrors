@@ -10,7 +10,7 @@ Here are the newset VPN Gate web site’s mirrors .With the VPN Gate,
 
 提供最新的访问 VPN Gate 镜像网站,通过使用 VPN 
 
-* 连接经由全世界志愿者提供的公共 VPN 服务器获得自由访问互联网。
+* 连接经由全世界志愿者提供的公共 VPN 服务器获得自由访问互联网（翻墙）。
 * 绕过您的本地故障防火墙的数据包拦截，并安全地隐藏你的 IP 地址。
 * 安全加密的 Wi-Fi 信号。当你通过互联网发送信息时，保护您的隐私。[更多]()
 
