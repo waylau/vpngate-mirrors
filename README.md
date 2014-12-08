@@ -17,21 +17,24 @@ Here are the newset VPN Gate web site’s mirrors .With the VPN Gate,
 
 ##List 列表
 
-vpngate.net 的镜像站点列表 (更新于2014-12-08 07:24)
-1. http://cgl-desktop-15.ethz.ch:20213/
-   (Location: Switzerland)
+vpngate.net 的镜像站点列表 (更新于2014-12-08 16:18)
  
-2. http://S010604a1512aba5b.du.shawcable.net:38241/
-   (Location: Canada)
+1. http://222.97.89.198:48877/
+   (Location: Korea Republic of)
  
-3. http://186-90-59-5.genericrev.cantv.net:51485/
-   (Location: Venezuela)
+2. http://165.194.117.225:13531/
+   (Location: Korea Republic of)
  
-4. http://pc64f07.sitmnt01.ap.so-net.ne.jp:59097/
+3. http://119.17.193.2:18715/
+   (Location: Viet Nam)
+ 
+4. http://softbank126091054164.bbtec.net:39479/
    (Location: Japan)
  
-5. http://119-173-168-142.rev.home.ne.jp:57983/
+5. http://61-21-234-15.rev.home.ne.jp:49609/
    (Location: Japan)
+ 
+ 
  
  
 VPN Gate 源 (主) 网站 URL
