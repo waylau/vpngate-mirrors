@@ -17,22 +17,22 @@ Here are the newset VPN Gate web site’s mirrors .With the VPN Gate,
 
 ##List 列表
 
-vpngate.net 的镜像站点列表 (更新于2014-12-26 08:53）
+vpngate.net 的镜像站点列表 (更新于2014-12-30 03:52)
  
-1. http://c-174-50-192-58.hsd1.ky.comcast.net:38740/
-   (Location: United States)
- 
-2. http://121.161.229.77:56121/
-   (Location: Korea Republic of)
- 
-3. http://222.97.89.198:48877/
-   (Location: Korea Republic of)
- 
-4. http://KD106172225146.ppp-bb.dion.ne.jp:46872/
+1. http://FL1-122-135-168-190.tky.mesh.ad.jp:52206/
    (Location: Japan)
  
-5. http://125.160.213.101:49952/
-   (Location: Indonesia)
+2. http://61-27-189-33.rev.home.ne.jp:36566/
+   (Location: Japan)
+ 
+3. http://118.34.80.198:39306/
+   (Location: Korea Republic of)
+ 
+4. http://121.161.229.77:56121/
+   (Location: Korea Republic of)
+ 
+5. http://cubdg079170.c-able.ne.jp:49452/
+   (Location: Japan)
  
  
 
@@ -42,4 +42,9 @@ http://www.vpngate.net/
 
 ##Download VPN Gate client 下载客户端
 
-使用客户端，避免了自己设置 VPN 的技术障碍，适合不想折腾的用户。点击下载[最新的客户端](http://pan.baidu.com/s/1o6Bhtk2)。有关客户端的使用，请参见[该文](http://www.waylau.com/about-vpngate/)
+使用客户端，避免了自己设置 VPN 的技术障碍，适合不想折腾的用户。有关客户端的使用，请参见[该文](http://www.waylau.com/about-vpngate/)
+
+下面为最新的客户端列表：
+
+* [vpngate-client-2014.12.30-build-9514.131472.zip](http://pan.baidu.com/s/1bnpQcpx)
+* [vpngate-client-2014.11.18-build-9514.131138.zip](http://pan.baidu.com/s/1o6Bhtk2)
