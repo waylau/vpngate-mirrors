@@ -17,22 +17,23 @@ Here are the newset VPN Gate web site’s mirrors .With the VPN Gate,
 
 ##List 列表
 
-vpngate.net 的镜像站点列表 (更新于 2015-05-07 05:29）
+vpngate.net 的镜像站点列表 (更新于 2015-05-09 12:09）
  
-1. http://220.118.154.142:10857/
+1. http://220.79.28.219:12833/
    (Location: Korea Republic of)
  
-2. http://14.37.147.135:24165/
+2. http://220.118.154.142:10857/
    (Location: Korea Republic of)
  
-3. http://220.79.28.219:12833/
-   (Location: Korea Republic of)
+3. http://73.222.112.132:48211/
+   (Location: United States)
  
-4. http://176.31.47.47:46162/
-   (Location: France)
- 
-5. http://122.155.168.29:58477/
+4. http://122.155.168.29:58477/
    (Location: Thailand)
+ 
+5. http://115.93.52.214:5469/
+   (Location: Korea Republic of)
+ 
  
 VPN Gate 源 (主) 网站 URL
 
