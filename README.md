@@ -17,7 +17,8 @@ Here are the newset VPN Gate web site’s mirrors .With the VPN Gate,
 
 ##List 列表
 
-vpngate.net 的镜像站点列表 (更新于 2015-05-19 16:56）
+vpngate.net 的镜像站点列表 (更新于 2015-05-20 01:04)
+ 
 1. http://115.93.52.214:5469/
    (Location: Korea Republic of)
  
@@ -27,11 +28,11 @@ vpngate.net 的镜像站点列表 (更新于 2015-05-19 16:56）
 3. http://91.214.169.44:62238/
    (Location: Austria)
  
-4. http://79.134.186.215.unicsbg.net:51308/
-   (Location: Bulgaria)
- 
-5. http://14.39.52.230:54695/
+4. http://14.39.52.230:54695/
    (Location: Korea Republic of)
+ 
+5. http://83.70.189.109.customer.cdi.no:50721/
+   (Location: Norway)
  
 VPN Gate 源 (主) 网站 URL
 
