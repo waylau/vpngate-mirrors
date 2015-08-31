@@ -17,8 +17,8 @@ Here are the newset VPN Gate web site’s mirrors .With the VPN Gate,
 
 ##List 列表
 
-vpngate.net 的镜像站点列表 (更新于2015-08-31 03:52)
-
+vpngate.net 的镜像站点列表 (更新于2015-09-01 06:17)
+ 
 1. http://200101.vs.webtropia.com:34015/
    (Location: Germany)
  
@@ -34,6 +34,8 @@ vpngate.net 的镜像站点列表 (更新于2015-08-31 03:52)
 5. http://111-255-234-153.dynamic.hinet.net:21859/
    (Location: Taiwan)
  
+ 
+*** Current Status Report ***
  
  
  
