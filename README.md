@@ -17,9 +17,9 @@ Here are the newset VPN Gate web site’s mirrors .With the VPN Gate,
 
 ##List 列表
 
-vpngate.net 的镜像站点列表 (更新 2015-11-06 07:21)
+vpngate.net 的镜像站点列表 (更新 2015-11-07 02:48)
  
-1. http://62.219.165.54:41657/
+1. http://bzq-165-54.dsl.bezeqint.net:41657/
    (Location: Israel)
  
 2. http://p4135-ipbfp602yamaguchi.yamaguchi.ocn.ne.jp:62643/
