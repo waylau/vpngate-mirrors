@@ -17,8 +17,7 @@ Here are the newset VPN Gate web site’s mirrors .With the VPN Gate,
 
 ##List 列表
 
-vpngate.net 的镜像站点列表 (更新于：015年12月23日(星期三) 凌晨1:49 (UTC+09:00 首尔、东京、札幌时间)）
-
+vpngate.net 的镜像站点列表 (更新于：2015年12月23日(星期三) 晚上8:51 (UTC+09:00 首尔、东京、札幌时间))
 
 1. http://i121-118-72-20.s41.a028.ap.plala.or.jp:38715/
    (Location: Japan)
@@ -26,10 +25,10 @@ vpngate.net 的镜像站点列表 (更新于：015年12月23日(星期三) 凌�
 2. http://178.32.69.217:2354/
    (Location: France)
 
-3. http://73.10.20.96:9702/
+3. http://c-73-10-20-96.hsd1.nj.comcast.net:9702/
    (Location: United States)
 
-4. http://bzq-165-54.dsl.bezeqint.net:41657/
+4. http://62.219.165.54:41657/
    (Location: Israel)
 
 5. http://134.196.200.189:62449/
