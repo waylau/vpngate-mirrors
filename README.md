@@ -34,6 +34,7 @@ vpngate.net 的镜像站点列表 (更新于：2015年12月23日(星期三) 晚�
 5. http://134.196.200.189:62449/
    (Location: Thailand)
 
+
 VPN Gate 源 (主) 网站 URL
 
 http://www.vpngate.net/
