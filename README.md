@@ -17,22 +17,24 @@ Here are the newset VPN Gate web site’s mirrors .With the VPN Gate,
 
 ##List 列表
 
-vpngate.net 的镜像站点列表 (更新于：2016年1月1日(星期五) 凌晨4:57 (UTC+09:00 首尔、东京、札幌时间)）
+vpngate.net 的镜像站点列表 (更新于：2016年1月2日(星期六) 下午4:51 (UTC+09:00 首尔、东京、札幌时间)	)
 
-1. http://hprm-20808.enjoy.ne.jp:2830/
-   (Location: Japan)
 
-2. http://c-73-10-20-96.hsd1.nj.comcast.net:9702/
+1. http://c-73-10-20-96.hsd1.nj.comcast.net:9702/
    (Location: United States)
 
-3. http://24.84.248.180:55094/
-   (Location: Canada)
+2. http://91.214.169.44:62238/
+   (Location: Austria)
 
-4. http://220.117.105.221:49464/
+3. http://106.0.176.61:38336/
+   (Location: Thailand)
+
+4. http://119.202.86.168:27950/
    (Location: Korea Republic of)
 
-5. http://91.214.169.44:62238/
-   (Location: Austria)
+5. http://114.205.182.160:53351/
+   (Location: Korea Republic of)
+
 
 
 
