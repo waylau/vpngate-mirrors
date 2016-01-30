@@ -26,17 +26,18 @@ Today's VPN Gate web site's daily mirror URLs are following.
 1. http://180.70.94.98:62215/
    (Location: Korea Republic of)
 
-2. http://a94-132-14-7.cpe.netcabo.pt:63770/
-   (Location: Portugal)
-
-3. http://168.126.97.99:19597/
+2. http://168.126.97.99:19597/
    (Location: Korea Republic of)
 
-4. http://pa33a60.ymnsnt01.ap.so-net.ne.jp:9531/
+3. http://119.70.132.169:17976/
+   (Location: Korea Republic of)
+
+4. http://122.155.168.29:58477/
+   (Location: Thailand)
+
+5. http://p73a26e41.fksmnt01.ap.so-net.ne.jp:49047/
    (Location: Japan)
 
-5. http://119.70.132.169:17976/
-   (Location: Korea Republic of)
 
 VPN Gate 源 (主) 网站 URL
 
