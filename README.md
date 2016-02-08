@@ -21,14 +21,15 @@ vpngate.net 的镜像站点列表 (更新于:2016年2月5日9:10 ）
 
 Today's VPN Gate web site's daily mirror URLs are following.
 
+
 1. http://119.56.204.80:56034/
    (Location: Korea Republic of)
 
-2. http://122.155.168.29:58477/
-   (Location: Thailand)
-
-3. http://119.70.132.169:17976/
+2. http://1.245.188.115:38685/
    (Location: Korea Republic of)
+
+3. http://122.155.168.29:58477/
+   (Location: Thailand)
 
 4. http://182.93.220.134:60538/
    (Location: Thailand)
