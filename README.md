@@ -25,18 +25,17 @@ Today's VPN Gate web site's daily mirror URLs are following.
 1. http://122.155.168.29:58477/
    (Location: Thailand)
 
-2. http://bzq-165-54.dsl.bezeqint.net:41657/
+2. http://85.219.199.18:8968/
+   (Location: Poland)
+
+3. http://bzq-165-54.dsl.bezeqint.net:41657/
    (Location: Israel)
 
-3. http://39.118.148.138:33281/
-   (Location: Korea Republic of)
-
-4. http://112.173.167.65:6325/
-   (Location: Korea Republic of)
-
-5. http://KD106166229058.ppp-bb.dion.ne.jp:19600/
+4. http://i125-201-26-102.s41.a024.ap.plala.or.jp:28879/
    (Location: Japan)
 
+5. http://112.173.167.65:6325/
+   (Location: Korea Republic of)
 
 
 VPN Gate 源 (主) 网站 URL
