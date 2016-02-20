@@ -21,24 +21,20 @@ vpngate.net 的镜像站点列表 (更新于:2016年2月17 日9:10 ）
 
 Today's VPN Gate web site's daily mirror URLs are following.
 
-
-1. http://141.223.83.104:49867/
+1. http://39.118.148.65:33281/
    (Location: Korea Republic of)
 
-2. http://122.155.168.29:58477/
+2. http://39.117.11.73:38326/
+   (Location: Korea Republic of)
+
+3. http://122.155.168.29:58477/
    (Location: Thailand)
 
-3. http://bzq-165-54.dsl.bezeqint.net:41657/
-   (Location: Israel)
-
-4. http://112.173.167.65:6325/
+4. http://141.223.83.104:49867/
    (Location: Korea Republic of)
 
-5. http://KD106166229058.ppp-bb.dion.ne.jp:19600/
-   (Location: Japan)
-
-
-
+5. http://62.219.165.54:41657/
+   (Location: Israel)
 
 VPN Gate 源 (主) 网站 URL
 
