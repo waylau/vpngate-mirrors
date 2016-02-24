@@ -24,17 +24,18 @@ Today's VPN Gate web site's daily mirror URLs are following.
 1. http://KD106166229058.ppp-bb.dion.ne.jp:19600/
    (Location: Japan)
 
-2. http://39.117.11.73:38326/
+2. http://112.173.167.65:6325/
    (Location: Korea Republic of)
 
 3. http://115.187.78.206:60998/
    (Location: Japan)
 
-4. http://112.173.167.65:6325/
+4. http://141.223.83.104:49867/
    (Location: Korea Republic of)
 
-5. http://141.223.83.104:49867/
-   (Location: Korea Republic of)
+5. http://118.109.102.200:28567/
+   (Location: Japan)
+
 
 
 VPN Gate 源 (主) 网站 URL
