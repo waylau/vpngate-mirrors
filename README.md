@@ -33,9 +33,8 @@ Today's VPN Gate web site's daily mirror URLs are following.
 4. http://115.21.224.200:55293/
    (Location: Korea Republic of)
 
-5. http://211.204.162.140:49079/
+5. http://115.95.97.94:48397/
    (Location: Korea Republic of)
-
 
 VPN Gate 源 (主) 网站 URL
 
