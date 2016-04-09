@@ -23,20 +23,22 @@ Today's VPN Gate web site's daily mirror URLs are following.
 
 
 
-1. http://118.39.33.238:5829/
+
+1. http://121.179.74.21:51605/
    (Location: Korea Republic of)
 
-2. http://p1031-ipbfp601otsu.shiga.ocn.ne.jp:53587/
+2. http://180.70.94.98:62215/
+   (Location: Korea Republic of)
+
+3. http://14-132-22-202.aichiwest1.commufa.jp:30510/
    (Location: Japan)
 
-3. http://121.179.74.21:51605/
+4. http://141.223.83.104:49867/
    (Location: Korea Republic of)
 
-4. http://121.66.227.156:45214/
-   (Location: Korea Republic of)
+5. http://ec2-54-201-110-154.us-west-2.compute.amazonaws.com:11908/
+   (Location: United States)
 
-5. http://114.205.182.160:53351/
-   (Location: Korea Republic of)
 
 
 
