@@ -17,7 +17,7 @@ Here are the newset VPN Gate web site’s mirrors .With the VPN Gate,
 
 ##List 列表
 
-vpngate.net 的镜像站点列表 (更新于:2016年4月19日9:10 ）
+vpngate.net 的镜像站点列表 (更新于:2016年4月29日9:10 ）
 
 Today's VPN Gate web site's daily mirror URLs are following.
 
@@ -26,21 +26,20 @@ Today's VPN Gate web site's daily mirror URLs are following.
 
 
 
-1. http://175.121.47.80:19816/
-   (Location: Korea Republic of)
-
-2. http://KD121108029227.ppp-bb.dion.ne.jp:50422/
+1. http://58-190-16-133f1.osk2.eonet.ne.jp:19749/
    (Location: Japan)
 
-3. http://221.164.142.243:65457/
+2. http://116.41.95.220:32735/
    (Location: Korea Republic of)
 
-4. http://58.236.118.100:51116/
+3. http://1.234.1.62:14454/
    (Location: Korea Republic of)
 
-5. http://ec2-54-201-110-154.us-west-2.compute.amazonaws.com:11908/
-   (Location: United States)
+4. http://180.70.94.98:62215/
+   (Location: Korea Republic of)
 
+5. http://147.46.138.24:52280/
+   (Location: Korea Republic of)
 
 
 VPN Gate 源 (主) 网站 URL
