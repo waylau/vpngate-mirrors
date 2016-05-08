@@ -24,20 +24,21 @@ Today's VPN Gate web site's daily mirror URLs are following.
 
 
 
-1. http://125.130.116.81:8375/
-   (Location: Korea Republic of)
+1. http://210.234.22.166:27957/
+   (Location: Japan)
 
 2. http://116.41.95.220:32735/
    (Location: Korea Republic of)
 
-3. http://58-190-16-133f1.osk2.eonet.ne.jp:19749/
+3. http://p4050036-ipngn23201marunouchi.tokyo.ocn.ne.jp:35367/
    (Location: Japan)
 
-4. http://122.38.246.72:52044/
+4. http://59.6.78.217:49464/
    (Location: Korea Republic of)
 
-5. http://147.46.138.24:52280/
-   (Location: Korea Republic of)
+5. http://58.190.16.133:19749/
+   (Location: Japan)
+
 
 VPN Gate 源 (主) 网站 URL
 
