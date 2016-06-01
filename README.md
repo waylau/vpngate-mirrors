@@ -26,17 +26,19 @@ Today's VPN Gate web site's daily mirror URLs are following.
 1. http://112.162.255.27:32326/
    (Location: Korea Republic of)
 
-2. http://ntokym059066.okym.nt.ftth4.ppp.infoweb.ne.jp:27436/
-   (Location: Japan)
+2. http://121.166.218.22:40709/
+   (Location: Korea Republic of)
 
 3. http://220.79.28.219:12833/
    (Location: Korea Republic of)
 
-4. http://121.166.218.22:40709/
+4. http://59.19.19.105:43428/
    (Location: Korea Republic of)
 
-5. http://121.137.133.118:64822/
+5. http://121.143.102.41:28492/
    (Location: Korea Republic of)
+
+
 
 
 VPN Gate 源 (主) 网站 URL
