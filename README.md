@@ -21,20 +21,21 @@ vpngate.net 的镜像站点列表 (更新于:2016年7月4日9:10 ）
  
 
 
+
 1. http://14.42.179.134:42932/
    (Location: Korea Republic of)
 
-2. http://211.54.63.94:61578/
+2. http://180.70.94.98:62215/
    (Location: Korea Republic of)
 
-3. http://180.70.94.98:62215/
+3. http://211.54.63.94:61578/
    (Location: Korea Republic of)
 
-4. http://141.223.83.104:49867/
-   (Location: Korea Republic of)
+4. http://106.104.38.184:7953/
+   (Location: Taiwan)
 
-5. http://94.242.198.180:30547/
-   (Location: Luxembourg)
+5. http://141.223.83.104:49867/
+   (Location: Korea Republic of)
 
 
 VPN Gate 源 (主) 网站 URL
