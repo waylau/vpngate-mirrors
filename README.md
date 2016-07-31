@@ -22,19 +22,20 @@ vpngate.net 的镜像站点列表 (更新于:2016年7月4日9:10 ）
 
 
 
-1. http://14.42.179.134:42932/
+
+1. http://KD111103167213.ppp-bb.dion.ne.jp:15804/
+   (Location: Japan)
+
+2. http://175.202.106.123:41150/
    (Location: Korea Republic of)
 
-2. http://180.70.94.98:62215/
+3. http://222.97.78.29:25620/
    (Location: Korea Republic of)
 
-3. http://211.54.63.94:61578/
+4. http://14.42.179.134:42932/
    (Location: Korea Republic of)
 
-4. http://106.104.38.184:7953/
-   (Location: Taiwan)
-
-5. http://141.223.83.104:49867/
+5. http://180.70.94.98:62215/
    (Location: Korea Republic of)
 
 
