@@ -23,17 +23,18 @@ vpngate.net 的镜像站点列表 (更新于:2016年7月4日9:10 ）
 1. http://fp76f1a976.tkyc303.ap.nuro.jp:17469/
    (Location: Japan)
 
-2. http://211.224.153.126:54417/
+2. http://FL1-27-127-66-239.aic.mesh.ad.jp:61208/
+   (Location: Japan)
+
+3. http://p3a57bf1a.hkidnt01.ap.so-net.ne.jp:9441/
+   (Location: Japan)
+
+4. http://211.224.153.126:54417/
    (Location: Korea Republic of)
 
-3. http://211.54.63.94:61578/
+5. http://121.189.102.234:13791/
    (Location: Korea Republic of)
 
-4. http://128.59.230.139:39110/
-   (Location: United States)
-
-5. http://180.250.181.107:27117/
-   (Location: Indonesia)
 
 
 VPN Gate 源 (主) 网站 URL
