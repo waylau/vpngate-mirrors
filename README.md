@@ -26,14 +26,16 @@ vpngate.net 的镜像站点列表 (更新于:2016年7月4日9:10 ）
 2. http://FL1-27-127-66-239.aic.mesh.ad.jp:61208/
    (Location: Japan)
 
-3. http://p3a57bf1a.hkidnt01.ap.so-net.ne.jp:9441/
-   (Location: Japan)
+3. http://121.189.102.234:13791/
+   (Location: Korea Republic of)
 
 4. http://211.224.153.126:54417/
    (Location: Korea Republic of)
 
-5. http://121.189.102.234:13791/
+5. http://141.223.83.104:49867/
    (Location: Korea Republic of)
+
+
 
 
 
