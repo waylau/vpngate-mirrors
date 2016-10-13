@@ -21,6 +21,7 @@ vpngate.net 的镜像站点列表 (更新于:2016年10月12日9:10 ）
  
  
 
+
 1. http://fp76f1a976.tkyc303.ap.nuro.jp:17469/
    (Location: Japan)
 
@@ -30,11 +31,11 @@ vpngate.net 的镜像站点列表 (更新于:2016年10月12日9:10 ）
 3. http://i220-221-22-39.s11.a027.ap.plala.or.jp:56914/
    (Location: Japan)
 
-4. http://61.254.31.78:20200/
-   (Location: Korea Republic of)
-
-5. http://KD121108029227.ppp-bb.dion.ne.jp:50422/
+4. http://KD121108029227.ppp-bb.dion.ne.jp:50422/
    (Location: Japan)
+
+5. http://61.254.31.78:20200/
+   (Location: Korea Republic of)
 
 
 
