@@ -25,14 +25,14 @@ vpngate.net 的镜像站点列表 (更新于:2016年10月22日9:10 ）
 2. http://KD121108029227.ppp-bb.dion.ne.jp:50422/
    (Location: Japan)
 
-3. http://pl907.nas81y-3.p-osaka.nttpc.ne.jp:52089/
-   (Location: Japan)
-
-4. http://61.254.31.78:20200/
+3. http://61.254.31.78:20200/
    (Location: Korea Republic of)
 
-5. http://103.28.58.249:5672/
-   (Location: Indonesia)
+4. http://dyn-128-59-230-139.dyn.columbia.edu:39110/
+   (Location: United States)
+
+5. http://47.147.82.87:17207/
+   (Location: United States)
 
 
 VPN Gate 源 (主) 网站 URL
