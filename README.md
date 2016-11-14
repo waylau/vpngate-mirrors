@@ -19,6 +19,7 @@ Here are the newset VPN Gate web site’s mirrors .With the VPN Gate,
 
 vpngate.net 的镜像站点列表 (更新于:2016年11月13日9:10 ）
  
+
 1. http://p2987254-ipngn201009osakachuo.osaka.ocn.ne.jp:26114/
    (Location: Japan)
 
@@ -31,9 +32,9 @@ vpngate.net 的镜像站点列表 (更新于:2016年11月13日9:10 ）
 4. http://94.242.198.180:30547/
    (Location: Luxembourg)
 
-5. http://109.95.171.79:59880/
-   (Location: Poland)
-
+5. http://2.235.238.28:44654/
+   (Location: Italy)
+   
 VPN Gate 源 (主) 网站 URL
 
 http://www.vpngate.net/
