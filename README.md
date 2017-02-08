@@ -27,14 +27,15 @@ vpngate.net 的镜像站点列表 (更新于:2017年1月10日8:10 ）
 2. http://pdf87534c.tokynt01.ap.so-net.ne.jp:16169/
    (Location: Japan)
 
-3. http://211.37.110.149:11858/
+3. http://121.139.177.193:5560/
    (Location: Korea Republic of)
 
 4. http://211.50.56.102:58078/
    (Location: Korea Republic of)
 
-5. http://103.28.58.249:5672/
-   (Location: Indonesia)
+5. http://211.37.110.149:11858/
+   (Location: Korea Republic of)
+
 
    
 VPN Gate 源 (主) 网站 URL
