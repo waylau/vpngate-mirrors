@@ -17,7 +17,7 @@ Here are the newset VPN Gate web site’s mirrors .With the VPN Gate,
 
 ## List 列表
 
-vpngate.net 的镜像站点列表 (更新于:2017年11月20日8:10 ）
+vpngate.net 的镜像站点列表 (更新于:2017年12月03日8:10 ）
  
 
 
