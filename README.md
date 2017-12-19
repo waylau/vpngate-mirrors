@@ -24,22 +24,20 @@ vpngate.net 的镜像站点列表 (更新于:2017年12月05日8:10 ）
 
 Today's VPN Gate web site's daily mirror URLs are following.
 
-
 1. http://175.116.17.48:42162/
    (Location: Korea Republic of)
 
-2. http://218.232.112.125:24369/
+2. http://vit94-5-82-243-48-170.fbx.proxad.net:4539/
+   (Location: France)
+
+3. http://218.232.112.125:24369/
    (Location: Korea Republic of)
 
-3. http://fp76f1b00d.tkyc311.ap.nuro.jp:21131/
-   (Location: Japan)
-
-4. http://KD106160149099.ppp-bb.dion.ne.jp:30578/
+4. http://fp76f1b00d.tkyc311.ap.nuro.jp:21131/
    (Location: Japan)
 
 5. http://39.117.215.205:56862/
    (Location: Korea Republic of)
-
 
 VPN Gate 源 (主) 网站 URL
 
