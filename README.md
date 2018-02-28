@@ -13,30 +13,30 @@ Here are the newset VPN Gate web site’s mirrors .With the VPN Gate,
 
 * 连接经由全世界志愿者提供的公共 VPN 服务器获得自由访问互联网（翻墙）。
 * 绕过您的本地故障防火墙的数据包拦截，并安全地隐藏你的 IP 地址。
-* 安全加密的 Wi-Fi 信号。当你通过互联网发送信息时，保护您的隐私。[更多](https://www.waylau.com/about-vpngate/)
+* 安全加密的 Wi-Fi 信号。当你通过互联网发送信息时，保护您的隐私。[更多](https://waylau.com/about-vpngate/)
 
 ## List 列表
 
-vpngate.net 的镜像站点列表 (更新于:2017年12月21日8:10 ）
+vpngate.net 的镜像站点列表 (更新于:2018年2月28日8:10 ）
  
 
 
 
 Today's VPN Gate web site's daily mirror URLs are following.
 
-1. http://175.116.17.48:42162/
+1. http://ngn3-ppp2459.osaka.sannet.ne.jp:28896/
+   (Location: Japan)
+
+2. http://ns538035.ip-144-217-69.net:60085/
+   (Location: France)
+
+3. http://175.202.146.122:10674/
    (Location: Korea Republic of)
 
-2. http://175.202.146.122:10674/
-   (Location: Korea Republic of)
+4. http://186.38.99.101:33941/
+   (Location: Argentina)
 
-3. http://218.232.112.125:24369/
-   (Location: Korea Republic of)
-
-4. http://39.117.215.205:56862/
-   (Location: Korea Republic of)
-
-5. http://175.200.253.82:17925/
+5. http://121.133.180.200:45538/
    (Location: Korea Republic of)
 
 VPN Gate 源 (主) 网站 URL
