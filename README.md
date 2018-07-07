@@ -41,6 +41,5 @@ http://www.vpngate.net/
 
 下面为最新的客户端列表：
 
-* [vpngate-client-2015.02.14-build-9530.131842.zip](http://pan.baidu.com/s/1c0o311Q)
-* [vpngate-client-2014.12.30-build-9514.131472.zip](http://pan.baidu.com/s/1bnpQcpx)
-* [vpngate-client-2014.11.18-build-9514.131138.zip](http://pan.baidu.com/s/1o6Bhtk2)
+* [vpngate-client-2018.07.07-build-9668.141753](https://pan.baidu.com/s/1e5oz1afLHGWmmD2YQyqmEA)
+
